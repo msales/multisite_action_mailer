@@ -1,0 +1,1 @@
+require 'multisite_action_mailer'
