@@ -1,0 +1,7 @@
+If you want ActionMailer templates handled the same way as views when you are using the rails-multisite plugin use this plugin.
+
+Right now it only works in conjunction with the msales fork of rails-multisite [1] and is in conflict with action_mailer_layouts [2]
+
+[1] http://github.com/msales/rails-multisite/tree/master
+[2] http://github.com/willcodeforfoo/action_mailer_layouts/tree/master
+
